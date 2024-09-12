@@ -1,4 +1,4 @@
-## Bennett Garcia [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennett-garcia-85272a197/) [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgarcia2324@gmail.com)
+## Bennett Garcia   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennett-garcia-85272a197/)   [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgarcia2324@gmail.com)
 
 
 - Backend engineer at Oracle Cloud Infrastrcuture working on version control; former full-stack engineering intern 
