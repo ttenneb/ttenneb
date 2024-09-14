@@ -5,7 +5,8 @@
 - Former software enginnering lead at Rutgers' Rail and Transport Lab working on compuer vision and active learning
 - Double Major in Computer Science & Mathematics from Rutgers University
 - Former director and committe chair at George Street Co-op
-- Interested in researching applications of Active Infrence and Bayesian Mechanics 
+- Interested in researching applications of Active Infrence and Bayesian Mechanics
+- Find more on my website [bennetts.work](https://bennetts.work).
 
 <div style="text-align:center">
 
