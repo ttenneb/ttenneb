@@ -1,13 +1,13 @@
 ## Bennett Garcia   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bennett-garcia-85272a197/)   [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgarcia2324@gmail.com)
 
 
-- Software Engineer at Hyperscience
+- Software Engineer at [Hyperscience](https://www.hyperscience.com/)
 - Former Backend engineer at OCI (Oracle Cloud Infrastrcuture) working on version control and distributed systems; former full-stack engineering intern 
-- Former software enginnering lead at Rutgers' Rail and Transport Lab working on compuer vision and active learning
+- Former software enginnering lead at [Rutgers' Rail and Transport Lab](https://cait.rutgers.edu/category/rail-and-transit/) ([C.A.I.T.](https://cait.rutgers.edu/about/)) working on compuer vision and active learning
 - Double Major in Computer Science & Mathematics from Rutgers University
-- Former director and committe chair at George Street Co-op
+- Former director and committe chair at [George Street Co-op](https://en.wikipedia.org/wiki/George_Street_Co-op)
 - Interested in researching: Variational Methods, Active Infrence, Bayesian Mechanics, Categorical Bayesian Inference, and Indivisible Stochastic Processes
-- Find more on my website [bennetts.work](https://bennetts.work).
+- Find more on my website [bennetts.work](https://bennetts.work)
 
 <div style="text-align:center">
 
