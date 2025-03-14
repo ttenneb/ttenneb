@@ -6,7 +6,7 @@
 - Former software enginnering lead at [Rutgers' Rail and Transport Lab](https://cait.rutgers.edu/category/rail-and-transit/) ([C.A.I.T.](https://cait.rutgers.edu/about/)) working on compuer vision and active learning
 - Double Major in Computer Science & Mathematics from Rutgers University
 - Former director and committe chair at [George Street Co-op](https://en.wikipedia.org/wiki/George_Street_Co-op)
-- Interested in researching: Variational Methods, Active Infrence, Bayesian Mechanics, Categorical Bayesian Inference, and Indivisible Stochastic Processes
+- Interested in researching: Variational Methods, Active Infrence, Bayesian Mechanics, Categorical Bayesian Inference, and Stochastic Processes
 - Find more on my website [bennetts.work](https://bennetts.work)
 
 <div style="text-align:center">
